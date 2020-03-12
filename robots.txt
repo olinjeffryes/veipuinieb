@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iecheifay.gn-kevin.kr/sitemap.xml
